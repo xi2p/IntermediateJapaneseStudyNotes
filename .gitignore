@@ -1,3 +1,6 @@
 *.aux
 *.log
 *.toc
+
+# Generated PDF file. Please complie it yourself.
+main.pdf 
