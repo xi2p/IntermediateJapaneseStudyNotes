@@ -260,14 +260,14 @@
 %     ItalicFont=*-Italic, % 斜体
 %     BoldItalicFont=*-BoldItalic, % 粗斜体
 % ]
-\setmonofont{CaskaydiaCoveNerdFontMono}[ % 设置英文等宽字体为CaskaydiaCove Nerd Font Mono
-    Path=./fonts/, % 指定字体文件所在的目录
-    Extension=.ttf, % 字体文件后缀
-    UprightFont=*-regular, % 正常字体
-    BoldFont=*-Bold, % 加粗
-    ItalicFont=*-Italic, % 斜体
-    BoldItalicFont=*-BoldItalic, % 粗斜体
-]
+% \setmonofont{CaskaydiaCoveNerdFontMono}[ % 设置英文等宽字体为CaskaydiaCove Nerd Font Mono
+%     Path=./fonts/, % 指定字体文件所在的目录
+%     Extension=.ttf, % 字体文件后缀
+%     UprightFont=*-regular, % 正常字体
+%     BoldFont=*-Bold, % 加粗
+%     ItalicFont=*-Italic, % 斜体
+%     BoldItalicFont=*-BoldItalic, % 粗斜体
+% ]
 
 % 具体设置参考unicode-math宏包
 % \setmathfont{TeX Gyre DejaVu Math} % DejaVu风格数学Unicode字体
