@@ -3,7 +3,7 @@
 *.toc
 
 # Generated PDF file. Please complie it yourself.
-*.pdf 
+main.pdf 
 
 # Image exported from PDF file.
 main*.png
